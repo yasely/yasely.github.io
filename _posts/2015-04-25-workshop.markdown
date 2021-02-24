@@ -10,4 +10,5 @@ date:   2015-04-25 12:12:12
 ### como cuidar mis plantas?
 - regar todos los dias
 - abonar y fertilizar cada mes
+- ponerlo al sol minimo 3 horas
 
