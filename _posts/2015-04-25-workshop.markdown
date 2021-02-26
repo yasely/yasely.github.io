@@ -1,14 +1,25 @@
 ---
-title:  "plantas"
-subtitle: "yo cuido mis plantas"
+title:  "Plantas Ornamentales"
+subtitle: "Mejora el encanto y la elegancia de tu hogar, jardín u oficina "
 author: "Wferr"
 avatar: "img/authors/wferr.png"
 image: "img/f.jpg"
 date:   2015-04-25 12:12:12
 ---
 
-### como cuidar mis plantas?
-- regar todos los dias
-- abonar y fertilizar cada mes
-- ponerlo al sol minimo 3 horas
+### Plantas Ornamentales de interior:
+- El árbol de jade 
+- El potus o photos 
+- Las cintas 
+- El espatifilo 
+- La lengua de suegra
+- El anturio rojo 
+- El ficus
 
+### Plantas Ornamentales de exterior:
+- Cannas
+- Dalia
+- Echeveria
+- Gerbera
+- Madreselva
+- Hibisco
