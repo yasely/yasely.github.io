@@ -1,13 +1,22 @@
 ---
-title:  "donde comprar"
-subtitle: "Only lights from space"
-author: "Wferr"
+title:  "Plantas Herbáceas"
+subtitle: "adorna tu jardinería "
+author: "Yass"
 avatar: "img/authors/wferr.png"
 image: "img/d.jpg"
 date:   2015-04-23 12:12:12
 ---
 
-### donde comprar plantas
-- en las tiendas de jardineria
-- en el campo 
-- buscar semillas
+### herbáceas sin flores:
+- Aspidistra
+- Helechos
+- Lirio de Paz
+- Lazo de amor
+
+
+### herbáceas con flores:
+- Girasol
+- Caléndula
+- Petunia
+- Amapola
+
