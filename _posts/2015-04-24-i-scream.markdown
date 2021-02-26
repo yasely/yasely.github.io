@@ -1,13 +1,25 @@
 ---
-title:  "como plantar"
-subtitle: "But do you scream?"
-author: "Wferr"
+title:  "Plantas Medicinales"
+subtitle: "Imprescindibles en tu hogar"
+author: "Yass"
 avatar: "img/authors/wferr.png"
 image: "img/e.jpg"
 date:   2015-04-24 12:12:12
 ---
 
-### pasos para plantar
-- tener uma maceta
-- tener buena tierra
-- añadir musgos
+### Hierbabuena: 
+Favorece la digestión, es antiparasitario.
+
+### Manzanilla: 
+Desinfectante, analgésico, antiinflamatorio y sedante.
+
+### Muña: 
+Antiséptico, antiespasmódico, fluidificante. Facilita la digestión y calma dolores estomacales.
+
+### Orégano: 
+Se le emplea para la dismenorrea (dolor menstrual) y el dolor de estómago.
+
+### Sábila: 
+Se trata de un poderoso cicatrizante y antiinflamatorio natural.
+
+
