@@ -7,8 +7,8 @@ image: "img/e.jpg"
 date:   2015-04-24 12:12:12
 ---
 
-### Hierbabuena: 
-Favorece la digestión, es antiparasitario.
+### Toronjil:
+alivia problemas digestivos y/o a provocar relajación y alivio de la ansiedad y el nerviosismo.
 
 
 ### Manzanilla: 
