@@ -3,7 +3,7 @@ title:  "Plantas Medicinales"
 subtitle: "Imprescindibles en tu hogar"
 author: "Yass"
 avatar: "img/authors/wferr.png"
-image: "img/e.jpg"
+image: "img/medicinal.jpg"
 date:   2015-04-24 12:12:12
 ---
 
