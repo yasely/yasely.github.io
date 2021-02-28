@@ -3,7 +3,7 @@ title:  "Árboles"
 subtitle: "Muestra tu amor por la naturaleza"
 author: "Yass"
 avatar: "img/authors/wferr.png"
-image: "img/b.jpg"
+image: "img/herbacea.jpg"
 date:   2015-04-21 12:12:12
 ---
 

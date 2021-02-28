@@ -1,0 +1,25 @@
+---
+title:  "Plantas Ornamentales"
+subtitle: "Mejora el encanto y la elegancia de tu hogar, jardín u oficina. "
+author: "Yass"
+avatar: "img/authors/wferr.png"
+image: "img/ornamentales.jpg"
+date:   2015-04-25 12:12:12
+---
+
+### Plantas Ornamentales de interior:
+- El árbol de jade 
+- El potus o photos 
+- Las cintas 
+- El espatifilo 
+- La lengua de suegra
+- El anturio rojo 
+- El ficus
+
+### Plantas Ornamentales de exterior:
+- Cannas
+- Dalia
+- Echeveria
+- Gerbera
+- Madreselva
+- Hibisco
