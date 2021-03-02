@@ -1,9 +1,9 @@
 ---
-title:  "Plantas Ornamentales"
-subtitle: "Mejora el encanto y la elegancia de tu hogar, jardín u oficina. "
+title:  "Plantas Carnívoras"
+subtitle: "Decora con una planta original y hermosa "
 author: "Yass"
 avatar: "img/authors/wferr.png"
-image: "img/ornamentales.jpg"
+image: "img/carnivoras.jpg"
 date:   2015-04-25 12:12:12
 ---
 

@@ -1,9 +1,9 @@
 ---
-title:  "Plantas Ornamentales"
-subtitle: "Mejora el encanto y la elegancia de tu hogar, jardín u oficina. "
+title:  "Plantas Acuáticas"
+subtitle: "Elabora hermosos jardines acuáticos "
 author: "Yass"
 avatar: "img/authors/wferr.png"
-image: "img/ornamentales.jpg"
+image: "img/acuaticas.jpg"
 date:   2015-04-25 12:12:12
 ---
 

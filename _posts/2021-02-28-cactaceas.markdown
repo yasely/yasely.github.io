@@ -1,9 +1,9 @@
 ---
-title:  "Plantas Alimenticias"
-subtitle: "fortalece tu sistema inmunológico"
+title:  "Plantas Cactáceas"
+subtitle: "Un regalo natural"
 author: "Yass"
 avatar: "img/authors/wferr.png"
-image: "img/arbol.jpg"
+image: "img/cactaceas.jpg"
 date:   2015-04-20 12:12:12
 ---
 

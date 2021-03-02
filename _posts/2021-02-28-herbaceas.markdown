@@ -1,9 +1,9 @@
 ---
 title:  "Plantas Herbáceas"
-subtitle: "adorna tu jardinería "
+subtitle: "Adorna tu jardinería "
 author: "Yass"
 avatar: "img/authors/wferr.png"
-image: "img/herbacea.jpg"
+image: "img/herbaceas.jpg"
 date:   2015-04-23 12:12:12
 ---
 
