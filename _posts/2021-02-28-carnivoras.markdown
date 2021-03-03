@@ -7,19 +7,15 @@ image: "img/carnivoras.jpg"
 date:   2015-04-25 12:12:12
 ---
 
-### Plantas Ornamentales de interior:
-- El árbol de jade 
-- El potus o photos 
-- Las cintas 
-- El espatifilo 
-- La lengua de suegra
-- El anturio rojo 
-- El ficus
+### Plantas Cucuruchos (Sarracenia, Darlingtonia)
 
-### Plantas Ornamentales de exterior:
-- Cannas
-- Dalia
-- Echeveria
-- Gerbera
-- Madreselva
-- Hibisco
+![](img/argos.png)
+
+### Pelos pegajosos (Drosera, Byllis, Drosophylum)
+
+### En forma de cepo (Dionaea muscípula)
+
+### Urnas con tapa (Nepenthes,Cephalotus)
+
+### Vejigas de succión ( Utricularias)
+

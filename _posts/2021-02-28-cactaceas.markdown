@@ -4,18 +4,26 @@ subtitle: "Un regalo natural"
 author: "Yass"
 avatar: "img/authors/wferr.png"
 image: "img/cactaceas.jpg"
-date:   2015-04-20 12:12:12
+date:   2015-04-24 12:12:12
 ---
 
-### Hortalizas:
-- Espinaca
-- Col
-- Lechugas
-- Tomate
-- Acelga
+### Toronjil:
+alivia problemas digestivos y/o a provocar relajación y alivio de la ansiedad y el nerviosismo.
 
-### Legumbres:
-- Arveja
-- Fréjol
-- Habas
+
+### Manzanilla: 
+Desinfectante, analgésico, antiinflamatorio y sedante.
+
+
+### Muña: 
+Antiséptico, antiespasmódico, fluidificante. Facilita la digestión y calma dolores estomacales.
+
+
+### Orégano: 
+Se le emplea para la dismenorrea (dolor menstrual) y el dolor de estómago.
+
+
+### Sábila: 
+Se trata de un poderoso cicatrizante y antiinflamatorio natural.
+
 
