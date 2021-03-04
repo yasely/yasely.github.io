@@ -1,5 +1,5 @@
 ---
-title:  "Plantas Acuáticas"
+title:  "Plantas Acuáticas "
 subtitle: "Elabora hermosos jardines acuáticos "
 author: "Yass"
 avatar: "img/authors/wferr.png"

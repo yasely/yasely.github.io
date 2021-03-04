@@ -7,9 +7,14 @@ image: "img/carnivoras.jpg"
 date:   2015-04-25 12:12:12
 ---
 
+### Dionaea Muscipula o Venus Atrapamoscas:
+
+![](img/dionaea.jpg)
+
+
 ### Plantas Cucuruchos (Sarracenia, Darlingtonia)
 
-![](img/argos.png)
+
 
 ### Pelos pegajosos (Drosera, Byllis, Drosophylum)
 

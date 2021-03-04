@@ -1,5 +1,5 @@
 ---
-title:  "Plantas Aromáticass"
+title:  "Plantas Aromáticas"
 subtitle: "Proporciona un buen olor al ambiente "
 author: "Yass"
 avatar: "img/authors/wferr.png"
