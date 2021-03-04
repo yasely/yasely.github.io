@@ -1,5 +1,5 @@
 ---
-title:  "Plantas Acuáticas "
+title:  "Plantas Acuáticas"
 subtitle: "Elabora hermosos jardines acuáticos "
 author: "Yass"
 avatar: "img/authors/wferr.png"
@@ -7,19 +7,4 @@ image: "img/acuaticas.jpg"
 date:   2015-04-25 12:12:12
 ---
 
-### Plantas Ornamentales de interior:
-- El árbol de jade 
-- El potus o photos 
-- Las cintas 
-- El espatifilo 
-- La lengua de suegra
-- El anturio rojo 
-- El ficus
-
-### Plantas Ornamentales de exterior:
-- Cannas
-- Dalia
-- Echeveria
-- Gerbera
-- Madreselva
-- Hibisco
+### P
