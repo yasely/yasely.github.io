@@ -8,19 +8,12 @@ date:   2015-04-25 12:12:12
 ---
 
 ### Dionaea Muscipula o Venus Atrapamoscas:
+![Caption for the picture.](img\carnivoras/dionaea.jpg)
 
-![](img/dionaea.jpg)
+### Drosera (Rocío de Sol)
+### Sarracenia 
+### Darlingtonia
+### Nepenthes
+### Cephalotus
 
-
-### Plantas Cucuruchos (Sarracenia, Darlingtonia)
-
-
-
-### Pelos pegajosos (Drosera, Byllis, Drosophylum)
-
-### En forma de cepo (Dionaea muscípula)
-
-### Urnas con tapa (Nepenthes,Cephalotus)
-
-### Vejigas de succión ( Utricularias)
 

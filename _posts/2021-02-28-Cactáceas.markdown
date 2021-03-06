@@ -7,23 +7,24 @@ image: "img/cactaceas.jpg"
 date:   2015-04-24 12:12:12
 ---
 
-### Toronjil:
-alivia problemas digestivos y/o a provocar relajación y alivio de la ansiedad y el nerviosismo.
+### Mammillaria:
+![Caption for the picture.](img\Cactaceas/Mammillaria.jpg)
 
+### Nopal:
+![Caption for the picture.](img\Cactaceas/Nopal.jpg)
 
-### Manzanilla: 
-Desinfectante, analgésico, antiinflamatorio y sedante.
+### Echinopsis Oxygona:
+![Caption for the picture.](img\Cactaceas/E.Oxygona.jpg)
 
+### Lophophora:
+![Caption for the picture.](img\Cactaceas/Lophophora.jpg)
 
-### Muña: 
-Antiséptico, antiespasmódico, fluidificante. Facilita la digestión y calma dolores estomacales.
+### Ferocactus:
+![Caption for the picture.](img\Cactaceas/Ferocactus.jpg)
 
+### Astrophytum Myriostigma:
+![Caption for the picture.](img\Cactaceas/A.Myriostigma.jpg)
 
-### Orégano: 
-Se le emplea para la dismenorrea (dolor menstrual) y el dolor de estómago.
-
-
-### Sábila: 
-Se trata de un poderoso cicatrizante y antiinflamatorio natural.
-
+### Cactus navideño:
+![Caption for the picture.](img\Cactaceas/C.navideño.jpg)
 

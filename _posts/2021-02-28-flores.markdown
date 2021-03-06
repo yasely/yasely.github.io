@@ -7,17 +7,17 @@ image: "img/flores.jpg"
 date:   2015-04-22 12:12:12
 ---
 
-### Flores Monocotiledóneas: 
-- lirios
-- orquídea
-- tulipán
-- azafrán
-- narciso 
-- campanilla
+### Margaritas:
+![Caption for the picture.](img\Flores/Margaritas.jpg)
 
-### Flores Dicotiledóneas: 
-- rosa
-- margarita
-- capuchina
-- begonia 
-- portulaca
+### Petunias:
+![Caption for the picture.](img\Flores/Petunias.jpg)
+
+### Dalias:
+![Caption for the picture.](img\Flores/Dalias.jpg)
+
+### Gardenias:
+![Caption for the picture.](img\Flores/Gardenias.jpg)
+
+### Geranios:
+![Caption for the picture.](img\Flores/Geranios.jpg)

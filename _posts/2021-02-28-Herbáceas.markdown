@@ -7,16 +7,17 @@ image: "img/herbaceas.jpg"
 date:   2015-04-23 12:12:12
 ---
 
-### herbáceas sin flores:
-- Aspidistra
-- Helechos
-- Lirio de Paz
-- Lazo de amor
+### Aspidistra:
+![Caption for the picture.](img\Herbaceas/aspidistra.jpg)
 
+### Espatifilo:
+![Caption for the picture.](img\Herbaceas/espatifilo.jpg)
 
-### herbáceas con flores:
-- Girasol
-- Caléndula
-- Petunia
-- Amapola
+### Monstera Deliciosa:
+![Caption for the picture.](img\Herbaceas/Monstera.jpg)
 
+### Kentia:
+![Caption for the picture.](img\Herbaceas/Kentia.jpg)
+
+### Helecho:
+![Caption for the picture.](img\Herbaceas/helecho.jpg)

@@ -7,19 +7,17 @@ image: "img/arboles.jpg"
 date:   2015-04-21 12:12:12
 ---
 
-### Árboles Frutales:
-- Aguacate
-- Mango
-- Limonero
-- Manzano
-- Naranjo
+### Aguacate
+![Caption for the picture.](img\arbol/aguacate.jpg)
 
+### Limonero:
+![Caption for the picture.](img\arbol/limon.jpg)
 
-### Árboles Ornamentales:
-- Arce coreano
-- Lilo
-- Mimosa
-- Sauce plateado
-- Árbol del amor
-- Árbol del Hierro
+### Ficus Lira:
+![Caption for the picture.](img\arbol/FicusL.jpg)
 
+### Olivo:
+![Caption for the picture.](img\arbol/olivo.jpg)
+
+### Ave del paraíso:
+![Caption for the picture.](img\arbol/ave.jpg)

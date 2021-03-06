@@ -7,4 +7,17 @@ image: "img/acuaticas.jpg"
 date:   2015-04-25 12:12:12
 ---
 
-### P
+### Cala de Agua:
+![Caption for the picture.](img\acuaticas/Cala.jpg)
+
+### Bambú de la suerte:
+![Caption for the picture.](img\acuaticas/Bambú.jpg)
+
+### Espatifilio:
+![Caption for the picture.](img\acuaticas/Espatifilio.jpg)
+
+### Planta del dinero:
+![Caption for the picture.](img\acuaticas/planta.jpg)
+
+### Potos:
+![Caption for the picture.](img\acuaticas/Potos.jpg)
