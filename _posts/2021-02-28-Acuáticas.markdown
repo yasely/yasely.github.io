@@ -14,7 +14,7 @@ date:   2015-04-25 12:12:12
 ![Caption for the picture.](img\acuaticas/Bambú.jpg)
 
 ### Espatifilio:
-![Caption for the picture.](img\acuaticas/espatifilio.jpg)
+![Caption for the picture.](img\acuaticas/espatifilo.jpg)
 
 ### Planta del dinero:
 ![Caption for the picture.](img\acuaticas/planta.jpg)
