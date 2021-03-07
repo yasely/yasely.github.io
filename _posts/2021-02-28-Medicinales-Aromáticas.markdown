@@ -4,7 +4,7 @@ subtitle: "Imprescindibles en tu hogar"
 author: "Yass"
 avatar: "img/authors/wferr.png"
 image: "img/medicinales.jpg"
-date:   2015-04-20 12:12:12
+date:   2021-02-28 12:12:12
 ---
 
 ### Aloe Vera:
